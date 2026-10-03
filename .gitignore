@@ -1,0 +1,3 @@
+venv
+.venv
+kinopoisk_cache.parquet
