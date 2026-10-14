@@ -3,3 +3,4 @@ venv
 kinopoisk_cache.parquet
 *.parquet
 ~$*
+*.Identifier
